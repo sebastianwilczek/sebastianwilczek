@@ -1,4 +1,4 @@
-##### Lead Engineer @IBM @Instana
+##### Software Engineer @IBM @Instana
 
 <div>
   <a href="https://github.com/sebastianwilczek">
